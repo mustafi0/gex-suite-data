@@ -1,0 +1,22 @@
+symbol,name,description,currency,type
+GEX_QQQ_CW,GEX Suite — QQQ Call Wall,QQQ: Call Wall — primary call-side resistance,USD,index
+GEX_QQQ_CW2,GEX Suite — QQQ 2nd Call Wall,QQQ: 2nd Call Wall — upper resistance cluster,USD,index
+GEX_QQQ_GF,GEX Suite — QQQ Gamma Flip / HVL,QQQ: Gamma Flip / HVL — GEX regime boundary,USD,index
+GEX_QQQ_IP,GEX Suite — QQQ Inflection Point,QQQ: Inflection Point — peak |GEX| dealer gravity center,USD,index
+GEX_QQQ_DEX,GEX Suite — QQQ DEX Level,QQQ: DEX Level — net delta exposure zero-cross,USD,index
+GEX_QQQ_PW,GEX Suite — QQQ Put Wall,QQQ: Put Wall — primary put-side support,USD,index
+GEX_QQQ_PW2,GEX Suite — QQQ 2nd Put Wall,QQQ: 2nd Put Wall — lower support cluster,USD,index
+GEX_SPY_CW,GEX Suite — SPY Call Wall,SPY: Call Wall — primary call-side resistance,USD,index
+GEX_SPY_CW2,GEX Suite — SPY 2nd Call Wall,SPY: 2nd Call Wall — upper resistance cluster,USD,index
+GEX_SPY_GF,GEX Suite — SPY Gamma Flip / HVL,SPY: Gamma Flip / HVL — GEX regime boundary,USD,index
+GEX_SPY_IP,GEX Suite — SPY Inflection Point,SPY: Inflection Point — peak |GEX| dealer gravity center,USD,index
+GEX_SPY_DEX,GEX Suite — SPY DEX Level,SPY: DEX Level — net delta exposure zero-cross,USD,index
+GEX_SPY_PW,GEX Suite — SPY Put Wall,SPY: Put Wall — primary put-side support,USD,index
+GEX_SPY_PW2,GEX Suite — SPY 2nd Put Wall,SPY: 2nd Put Wall — lower support cluster,USD,index
+GEX_GLD_CW,GEX Suite — GLD Call Wall,GLD: Call Wall — primary call-side resistance,USD,index
+GEX_GLD_CW2,GEX Suite — GLD 2nd Call Wall,GLD: 2nd Call Wall — upper resistance cluster,USD,index
+GEX_GLD_GF,GEX Suite — GLD Gamma Flip / HVL,GLD: Gamma Flip / HVL — GEX regime boundary,USD,index
+GEX_GLD_IP,GEX Suite — GLD Inflection Point,GLD: Inflection Point — peak |GEX| dealer gravity center,USD,index
+GEX_GLD_DEX,GEX Suite — GLD DEX Level,GLD: DEX Level — net delta exposure zero-cross,USD,index
+GEX_GLD_PW,GEX Suite — GLD Put Wall,GLD: Put Wall — primary put-side support,USD,index
+GEX_GLD_PW2,GEX Suite — GLD 2nd Put Wall,GLD: 2nd Put Wall — lower support cluster,USD,index
